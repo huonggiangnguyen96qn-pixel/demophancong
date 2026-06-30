@@ -1,0 +1,6 @@
+{
+  "name": "Phần mềm Phân công Lịch giảng dạy",
+  "description": "Ứng dụng giúp phân công lịch dạy và trực quan hóa dữ liệu thống kê cho trưởng bộ môn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
